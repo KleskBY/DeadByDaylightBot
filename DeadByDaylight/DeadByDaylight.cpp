@@ -213,6 +213,8 @@ int main()
 			WindowHeight -= 23;
 		}
 		Radius = WindowWidth * 0.03375;
+		Radius3 = Radius +1;
+		Radius4 = Radius +1;
 	}
 	else
 	{
